@@ -1,0 +1,42 @@
+[
+    {
+		"categoria": "Cidade",
+		"palavra": "Porto Alegre"
+	},
+	{
+		"categoria": "Comida",
+		"palavra": "Churrasco"
+	},
+    {
+        "categoria": "Comida",
+		"palavra": "Pizza"
+    },
+    {
+        "categoria": "Lugar",
+		"palavra": "Academia"
+    },
+    {
+        "categoria": "Lugar",
+		"palavra": "Praça"
+    },
+    {
+        "categoria": "Animal",
+		"palavra": "Cachorro"
+    },
+    {
+        "categoria": "Animal",
+		"palavra": "Gato"
+    },
+    {
+        "categoria": "Animal",
+		"palavra": "Baleia"
+    },
+    {
+        "categoria": "Animal",
+		"palavra": "Macaco"
+    },
+    {
+        "categoria": "Animal",
+		"palavra": "T-Rex"
+    }
+]
